@@ -1,0 +1,32 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "A to do app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abijitsuresh/NodeJS-ToDoApp.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "css",
+    "mongodb",
+    "ajax"
+  ],
+  "author": "Abijit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abijitsuresh/NodeJS-ToDoApp/issues"
+  },
+  "homepage": "https://github.com/abijitsuresh/NodeJS-ToDoApp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.11"
+  }
+}
